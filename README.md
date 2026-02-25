@@ -1,5 +1,3 @@
----
-
 # Constant-Product AMM Simulator (Uniswap v2 style)
 
 ## Overview
